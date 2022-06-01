@@ -1,4 +1,4 @@
-## Hey 👋, This is Winfy
+## Hey 👋, I'm Winfy, a software engineer.
 
 [![Mail Badge](https://img.shields.io/badge/-winfy8@126.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:winfy8@126.com)](mailto:winfy8@126.com) [![Github Badge](https://img.shields.io/badge/-winfy8-grey?style=flat&logo=github&logoColor=white&link=https://github.com/winfy8/)](https://www.github.com/winfy8/)
 ## Some of my Github Stats
@@ -13,8 +13,10 @@
 
 Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/css.png" alt="css"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/javascript.png" alt="javascript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 
 
